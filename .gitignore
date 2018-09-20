@@ -1,0 +1,11 @@
+
+bin/
+*.class
+build/
+out/
+.settings
+.project
+.classpath
+.idea
+*.ctxt
+*.ctext`
